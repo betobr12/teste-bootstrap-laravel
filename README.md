@@ -1,3 +1,3 @@
-## Desenvolvido em Bootstrap + SASS dentro do Laravel.
+## Desenvolvido em Bootstrap no Laravel.
 
-<p align="center">Objetivo deste projeto é mostrar a organização de desenvolvimento</p>
+<p align="center">Objetivo deste projeto é mostrar a organização do front para desenvolvimento</p>
